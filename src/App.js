@@ -3,7 +3,19 @@ import ExpenseItem from './components/ExpenseItem';
 function App() {
   return (
    <div>
-      <h2>Let's get started</h2>
+      <h2>List of Items</h2>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
       <ExpenseItem></ExpenseItem>
     </div>             
   );
